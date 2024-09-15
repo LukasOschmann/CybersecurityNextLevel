@@ -6,6 +6,7 @@
 
 1. Absprache organisatorisches Vorgehen 
 2. Erarbeitung Aufgaben erster Projektabschnitt (Basis)
+3. Status des Kanban Boards
 
 ### 1. Absprache organisatorisches Vorgehen 
 
@@ -27,3 +28,6 @@
 - Namensschema der Server:
     - Linux: lin_\<servicename\>_\<Aufzählung\>
     - Windows: win_\<servicename\>_\<Aufzählung\>
+
+### 3. Status des Kanban Boards
+![Aktuelles Kanbanboard](Kanbanboard_14092024.png)
