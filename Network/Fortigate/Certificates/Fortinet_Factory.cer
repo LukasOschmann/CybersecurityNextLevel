@@ -1,0 +1,63 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1921262 (0x1d50ee)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=US, ST=California, L=Sunnyvale, O=Fortinet, OU=Certificate Authority, CN=support/emailAddress=support@fortinet.com
+        Validity
+            Not Before: Feb  8 14:44:37 2015 GMT
+            Not After : Jan 19 03:14:07 2038 GMT
+        Subject: C=US, ST=California, L=Sunnyvale, O=Fortinet, OU=FortiGate, CN=FGT60D4615024743/emailAddress=support@fortinet.com
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+            RSA Public Key: (1024 bit)
+                Modulus (1024 bit):
+                    00:ab:89:60:94:30:63:10:e7:57:75:85:45:91:52:
+                    57:f6:81:df:d0:b1:58:a3:db:53:3d:66:bf:68:c2:
+                    9f:ec:59:c1:a3:5d:44:36:9c:88:c3:2c:e9:53:81:
+                    4c:2f:10:99:4b:d6:c7:f9:cf:00:a4:52:28:e2:29:
+                    a8:8c:af:e2:de:e5:5d:7e:6f:50:42:42:06:b3:ff:
+                    6d:52:50:2f:9e:2d:0a:7f:98:77:30:82:ea:8d:75:
+                    73:44:df:ac:e4:4b:c7:f0:49:e0:e6:ab:af:5f:5f:
+                    be:21:d0:d5:71:ef:39:b3:a2:84:35:f5:8f:b1:4f:
+                    5c:ed:7f:a3:84:e9:7e:1d:49
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+    Signature Algorithm: sha1WithRSAEncryption
+        a7:54:4c:7b:26:7a:50:b2:d6:28:4b:18:88:cd:0a:01:fb:e7:
+        5d:83:e4:8a:00:d5:9e:43:82:6f:0f:78:ca:b1:6a:2a:92:58:
+        b4:d7:a4:f8:24:18:8f:7e:64:57:a6:48:36:d8:1b:3e:56:16:
+        4a:93:e0:67:a4:de:46:8a:b2:f5:ba:a0:13:e5:f7:65:c2:7e:
+        fd:b1:0d:cb:2f:f5:c2:9d:66:20:75:8a:42:cd:e7:bf:02:4c:
+        86:06:8f:1e:64:3d:4a:cd:57:e4:0e:9a:c2:c7:30:a9:f8:ac:
+        1c:fa:f2:25:87:35:3f:bd:e4:c1:6f:f8:f4:27:e4:9e:5c:4e:
+        ab:4d:49:97:db:ca:20:f0:c5:21:83:05:fd:c8:a8:e6:50:36:
+        f8:c9:15:7b:17:a8:d5:45:30:96:0b:2c:d8:bf:a9:ba:ac:ab:
+        d4:52:2f:a2:a0:43:fd:de:65:9c:e1:f8:0e:e1:65:32:e7:08:
+        66:cc:04:fe:53:85:6c:44:00:fc:c2:e7:8d:c1:8a:a5:6a:86:
+        3f:1a:81:08:0e:67:c7:aa:23:93:a7:5a:9a:35:8d:30:5c:d1:
+        d2:6b:33:9c:9b:6b:94:56:2d:65:15:d5:bc:41:c8:9b:0d:2e:
+        fe:67:3a:c2:28:44:bb:53:39:3a:4f:2a:77:57:93:03:00:52:
+        66:97:51:66
+-----BEGIN CERTIFICATE-----
+MIIDRTCCAi2gAwIBAgIDHVDuMA0GCSqGSIb3DQEBBQUAMIGgMQswCQYDVQQGEwJV
+UzETMBEGA1UECBMKQ2FsaWZvcm5pYTESMBAGA1UEBxMJU3Vubnl2YWxlMREwDwYD
+VQQKEwhGb3J0aW5ldDEeMBwGA1UECxMVQ2VydGlmaWNhdGUgQXV0aG9yaXR5MRAw
+DgYDVQQDEwdzdXBwb3J0MSMwIQYJKoZIhvcNAQkBFhRzdXBwb3J0QGZvcnRpbmV0
+LmNvbTAeFw0xNTAyMDgxNDQ0MzdaFw0zODAxMTkwMzE0MDdaMIGdMQswCQYDVQQG
+EwJVUzETMBEGA1UECBMKQ2FsaWZvcm5pYTESMBAGA1UEBxMJU3Vubnl2YWxlMREw
+DwYDVQQKEwhGb3J0aW5ldDESMBAGA1UECxMJRm9ydGlHYXRlMRkwFwYDVQQDExBG
+R1Q2MEQ0NjE1MDI0NzQzMSMwIQYJKoZIhvcNAQkBFhRzdXBwb3J0QGZvcnRpbmV0
+LmNvbTCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAq4lglDBjEOdXdYVFkVJX
+9oHf0LFYo9tTPWa/aMKf7FnBo11ENpyIwyzpU4FMLxCZS9bH+c8ApFIo4imojK/i
+3uVdfm9QQkIGs/9tUlAvni0Kf5h3MILqjXVzRN+s5EvH8Eng5quvX1++IdDVce85
+s6KENfWPsU9c7X+jhOl+HUkCAwEAAaMNMAswCQYDVR0TBAIwADANBgkqhkiG9w0B
+AQUFAAOCAQEAp1RMeyZ6ULLWKEsYiM0KAfvnXYPkigDVnkOCbw94yrFqKpJYtNek
++CQYj35kV6ZINtgbPlYWSpPgZ6TeRoqy9bqgE+X3ZcJ+/bENyy/1wp1mIHWKQs3n
+vwJMhgaPHmQ9Ss1X5A6awscwqfisHPryJYc1P73kwW/49CfknlxOq01Jl9vKIPDF
+IYMF/cio5lA2+MkVexeo1UUwlgss2L+puqyr1FIvoqBD/d5lnOH4DuFlMucIZswE
+/lOFbEQA/MLnjcGKpWqGPxqBCA5nx6ojk6damjWNMFzR0msznJtrlFYtZRXVvEHI
+mw0u/mc6wihEu1M5Ok8qd1eTAwBSZpdRZg==
+-----END CERTIFICATE-----
