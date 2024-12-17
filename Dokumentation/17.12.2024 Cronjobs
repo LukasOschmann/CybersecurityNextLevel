@@ -1,0 +1,7 @@
+17.12.2024
+
+Cronjob eingerichtet:
+ - Jumphost 0 1 * * 0 systemctl reboot
+ - Web Server 0 0 * * 0 systemctl reboot
+
+ Überprüfung => crontab -l
