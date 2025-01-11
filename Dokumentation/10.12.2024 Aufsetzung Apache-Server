@@ -13,3 +13,5 @@
           - passwordauthentication yes
     -UFW war nicht installiert
     SSH restart => Zugriff OK
+
+- Statische Adresse vergeben
