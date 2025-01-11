@@ -1,0 +1,15 @@
+- Container erstellt
+
+- Apache2 installiert
+  kein Zugriff => Über Host passwort umgeschrieben
+
+- Apache2 funktionsfähig
+    => Default-Website wird korrekt angezeigt
+
+- SSH eingerichtet
+  kein Zugirff über Host
+  => SSH Konfig auskommentiert:
+          -permitrootlogin yes
+          - passwordauthentication yes
+    -UFW war nicht installiert
+    SSH restart => Zugriff OK
