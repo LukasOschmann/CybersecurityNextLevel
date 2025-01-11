@@ -1,5 +1,7 @@
 # WAN Verbindung
 
+Author: Lukas Oschmann
+
 ## Allgemein
 
 Die Anbindung der Firewall an das Internet ist, da wir die Projektumgebung in der Schule aufgebaut haben, 

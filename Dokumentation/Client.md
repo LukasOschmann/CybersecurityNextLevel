@@ -1,5 +1,7 @@
 # Client
 
+Author: Lukas Oschmann
+
 ## Allgemein
 
 Um verschiedene Funktionen in unserem Netzwerk zu testen, zum Beispiel den Netzwerk basierter Zugriff auf die Datenbank, wird ein Client Rechner benötigt. Dafür haben wir eine Virtuelle Maschine mit Kali Linux als Betriebssystem aufgesetzt. 
