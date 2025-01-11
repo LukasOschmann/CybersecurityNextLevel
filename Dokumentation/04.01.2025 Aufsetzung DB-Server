@@ -1,14 +1,16 @@
-DB - Container erstellt
+- DB - Container erstellt
 
-SSH eingerichtet
+- SSH eingerichtet
       (kein Zugriff über Client)
        Problem: falsche Bridge
       SSH Zugriff => OK
 
-erstmal über DHCP
+- erstmal über DHCP
   - ip link set ethDB00 up
   - dhcpclient ethDB00
 
-MariaDB installiert => OK
+- MariaDB installiert => OK
   - Anmeldung möglich
   - Auflistung der vorhandenen Datenbanken
+
+- Statische Adresse vergeben
