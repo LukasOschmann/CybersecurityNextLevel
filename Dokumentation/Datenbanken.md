@@ -31,9 +31,11 @@ MariaDB: Zur Verwaltung der Datenbank.
 
 Die Datenbank dient als Grundlage für:
 
-Funktionstests: Sicherstellen, dass Daten korrekt abgefragt und verarbeitet werden können.
-Pentests: Angriffe simulieren, um Schwachstellen im Datenbanksystem zu identifizieren.
-Lerneffekte: Teammitglieder üben SQL-Abfragen und Sicherheitsmaßnahmen an einer realistischen Umgebung.
+1. Funktionstests: Sicherstellen, dass Daten korrekt abgefragt und verarbeitet werden können.
+
+2. Pentests: Angriffe simulieren, um Schwachstellen im Datenbanksystem zu identifizieren.
+
+3. Lerneffekte: Teammitglieder üben SQL-Abfragen und Sicherheitsmaßnahmen an einer realistischen Umgebung.
 
 
 ## [Testdaten-Generator](https://databasedata.blue-l.de/databasedata)
