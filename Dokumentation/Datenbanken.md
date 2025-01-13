@@ -18,12 +18,15 @@ Die Wahl der Datenstruktur und Inhalte orientierte sich an typischen Anforderung
 
 ## Einrichtung
 
-Die Datenbank wurde mithilfe eines Musterdaten-Generators eingerichtet, der die benötigten Tabellen und Daten in Form von SQL-Statements erstellt hat. Dies erleichterte die schnelle Implementierung und gewährleistete, dass die Daten konsistent und korrekt sind.
+Die Datenbank wurde mithilfe eines Musterdaten-Generators eingerichtet, der die benötigten Tabellen und Daten in Form von SQL-Statements erstellt hat.
+
+Dies erleichterte die schnelle Implementierung und gewährleistete, dass die Daten konsistent und korrekt sind.
 
 
 ## Werkzeuge
 
 Musterdaten-Generator: Um realistische Daten zu generieren.
+
 MariaDB: Zur Verwaltung der Datenbank.
 
 
